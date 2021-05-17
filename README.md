@@ -5,5 +5,5 @@ An extension that generates a new url `/google` that provides a google search pa
 ### Installation
 
 ```sh
-composer require irony/flarum-ext-google-search
+composer require vascan5123/flarum-ext-google-search
 ```
